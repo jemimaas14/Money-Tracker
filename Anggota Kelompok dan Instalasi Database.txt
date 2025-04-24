@@ -1,0 +1,14 @@
+Anggota Kelompok:
+1. Christopher Nathaniel Tanamas // 222200153
+2. Grace Calista Lim // 222102176
+3. Jemima Alithia Sigar // 222101393 
+
+Cara instalasi / restore database:
+- Download folder "Database UAS"
+- Buka phpmyadmin
+- Buat database dengan nama "moneytracker"
+- Klik "import" 
+- Pada bagian File to Import, pilih "Choose file"
+- Pilih database moneytracker.sql yang ada di folder "Database UAS", enter
+- Klik "import" pada bagian akhir di phpMyAdmin
+- Database akan memiliki 3 table: category, transaction, user
